@@ -160,6 +160,9 @@ header .container {
     
     .three {
       background-color: #fff;
+      height: 1100px;
+   
+justify-content: center;
     }
     
   .imag{
@@ -175,7 +178,7 @@ header .container {
 
 }
   .name1{
-    left:101.5vh;
+    left:102.5vh;
     position:absolute;
     font-weight:bold;
     font-size:  25px;
@@ -191,13 +194,13 @@ header .container {
 
 .image2{
     border-radius: 15vh;
-    left:57vh;
+    left:90vh;
     position:relative;
 
 }
 
 .name2{
-    left:28vh;
+    left:33vh;
     position:absolute;
     font-weight:bold;
     font-size:  25px;
@@ -256,8 +259,17 @@ header .container {
 }
 .titleimage{
     width:500px;
-    height: 00px;
+    height: 500px;
   
+
+
+}
+
+
+.nasaDescription{
+
+    position:relative;
+    top:10%;
 
 
 }
